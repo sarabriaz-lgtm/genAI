@@ -1,6 +1,5 @@
 streamlit
+matplotlib
 pandas
 numpy
-requests
-matplotlib
-openpyxl
+groq
